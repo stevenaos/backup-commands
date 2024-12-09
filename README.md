@@ -1,7 +1,7 @@
 # Backup Server Commands Bot
 
 <div align="center">
-    <a href="https://discord.gg/Uy9m5TP5na"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+    <a href="https://discord.gg/Sb9Y6hx2Ck"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
     <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/></a>
     <br>
     <img src="https://images-ext-1.discordapp.net/external/XhMU3Cbd5O5qLLqNmSjMwy5my_50VIZ1CGONpCns_h0/%3Fsize%3D4096%26ignore%3Dtrue%29./https/cdn.discordapp.com/avatars/1138397517067854027/2fc0ede8b3cd2dc5484ce74a7a5e8dc3.png?format=webp&quality=lossless&width=473&height=473" alt="Steven G Bot" width="20%"/>
