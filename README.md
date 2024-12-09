@@ -2,20 +2,10 @@
 
 <div align="center">
     <a href="https://discord.gg/Uy9m5TP5na"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-    <a href="https://www.buymeacoffee.com/cornbread2100"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
     <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/></a>
-    <a href="https://github.com/kgurchiek/Minecraft-Server-Scanner-Discord-Bot"><img src="https://img.shields.io/github/last-commit/kgurchiek/Minecraft-Server-Scanner-Discord-Bot?style=for-the-badge&logo=github&logoColor=white&logoWidth=20"/></a>
     <br>
-    <img src="https://raw.githubusercontent.com/kgurchiek/Minecraft-Server-Scanner-Discord-Bot/main/Icon.PNG" alt="Minecraft Server Scanner Logo" width="20%"/>
+    <img src="https://images-ext-1.discordapp.net/external/XhMU3Cbd5O5qLLqNmSjMwy5my_50VIZ1CGONpCns_h0/%3Fsize%3D4096%26ignore%3Dtrue%29./https/cdn.discordapp.com/avatars/1138397517067854027/2fc0ede8b3cd2dc5484ce74a7a5e8dc3.png?format=webp&quality=lossless&width=473&height=473" alt="Steven G Bot" width="20%"/>
 </div>
-
-## 📝 About
-
-This is the complete code for a Node.js Discord bot. This bot doesn't do the scanning itself, it just displays the scanned servers from my database, which is actively collected by a separate scanning program. You can access it yourself at <https://api.cornbread2100.com/servers> by sending a MongoDB find query in a POST request.
-
-If you find any bugs, please report them in the [official Discord server](https://discord.gg/TSWcF2m67m).
-
-You can contact me via Discord: [cornbread2100](https://discord.com/users/720658048611516559)
 
 ## 🌐 Hosting the bot yourself
 
